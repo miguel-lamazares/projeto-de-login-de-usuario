@@ -21,7 +21,7 @@ Gengar Login Screen is a stylish and animated login page inspired by the Pokémo
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Dexzn08/projeto-de-login-de-usuario.git
+   git clone https://github.com/miguel-lamazares/projeto-de-login-de-usuario.git
    ```
 2. Open `index.html` in your browser.
 
